@@ -10,7 +10,7 @@
 
 I'm a .Net full stack developer with 10 years experience. I work for Zhongshan YIDA apparel ltd subside of Crystal Internation Group. Currently, I a full time stuff and aslo freelancer stuff to develop applications using .NET, Angular , React, Vue.js, Blazor, and Azure. I love a researhing and learning coding technique from other developers. I favorite hobby are watching movies, play soccer, reading new technologies products and hang out at coffee shop.
 
-![](https://raw.githubusercontent.com/neozhu/neozhu/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/neozhu/chinan_yin_dev//main/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 
