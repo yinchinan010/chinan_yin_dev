@@ -14,6 +14,5 @@ I'm a .Net full stack developer with 10 years experience. I work for Zhongshan Y
 
 <a href="https://github.com/yinchinan010">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yinchinan010&show_icons=true&theme=shades-of-purple&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonTaylorDev&theme=shades-of-purple&layout=compact" 
-    alt="JasonTaylorDev GitHub Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonTaylorDev&theme=shades-of-purple&layout=compact" />
 </a>
