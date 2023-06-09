@@ -1,7 +1,6 @@
 # Hey there! I'm [Chinan](https://jasontaylor.dev) 👋
 <!-- <img src="wave.gif" width="24px"> -->
-![JasonTaylorDev](banner.png)
-
+![ChinanYinDev](banner.png)
 <p align="center">
     <a href="https://twitter.com/yinchinan"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
     <a href="https://linkedin.com/in/yinchinan"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
